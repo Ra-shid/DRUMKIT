@@ -8,6 +8,15 @@
     background-repeat: no-repeat;
     justify-content: space-evenly;
 }
+.info {position: relative;display: flex;justify-content: center;}
+
+.info p {
+    position: absolute;
+    color: #fff;
+    font-size: 1.2rem;
+    text-transform: capitalize;
+    top: 250px;
+}
 
 .key {
     color: #fff;
